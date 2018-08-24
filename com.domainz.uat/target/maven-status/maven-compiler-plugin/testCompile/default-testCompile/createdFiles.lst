@@ -1,0 +1,15 @@
+com\face\pageFactory\HostingAndExtrasPage.class
+com\testRunners\RunnerTest.class
+com\face\pageFactory\AdminConsoleLogin.class
+com\face\pageFactory\ClientAccountPage.class
+com\face\pageFactory\RegistrantContactPage.class
+com\face\pageFactory\DomainSearchPage.class
+com\face\pageFactory\MainMenuPage.class
+com\face\pageFactory\InvoicesPage.class
+com\face\pageFactory\AccountContactPage.class
+com\face\pageFactory\DomainCheckOutPage.class
+com\face\pageFactory\PrepaidCreditPage.class
+com\face\stepDefinitions\DomainZ.class
+com\face\pageFactory\BillingPage.class
+com\face\pageFactory\WorkflowDetailsPage.class
+com\face\pageFactory\BrainTreePage.class
