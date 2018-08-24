@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="55.569097">
-<testcase classname="DomainZ" name="A customer recharge prepaid account from console using new credit card" time="55.569097">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="79.667715">
+<testcase classname="DomainZ" name="A customer recharge prepaid account from console using new credit card" time="79.667715">
 <system-out><![CDATA[Given Enter User name fnurani...............................................passed
 Then Enter Password comein22................................................passed
 Then Click on Login button..................................................passed

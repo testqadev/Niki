@@ -12,6 +12,7 @@ import cucumber.api.junit.Cucumber;
 		features = {"src/test/java/com/face/features"},
 		glue = {"core.Hooks", "com.face.stepDefinitions"},
 		tags = {"@FunctionalAutomation1"},
+		
 			//	dryRun = true,
 		monochrome = true,
 		
@@ -19,8 +20,10 @@ import cucumber.api.junit.Cucumber;
 				"pretty",
 				"html:src/test/java/testresult/cucumber-report",
 				"junit:src/test/java/testresult/cucumber-report/cucumber.xml",
-				"json:src/test/java/testresult/cucumber-report/cucumber.json"
+				"json:src/test/java/testresult/cucumber-report/cucumber.json",
+				"html:target/cucumber-html-report"
 		}
+		
 		)
 /**
  * @ScriptName    : TestRunner
